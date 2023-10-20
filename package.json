@@ -1,0 +1,24 @@
+{
+  "name": "sku-utils",
+  "version": "1.0.0",
+  "description": "Sku Utils for Electric-Shopping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YakunJin/SkuUtils.git"
+  },
+  "keywords": [
+    "Sku",
+    "Electric-Shopping",
+    "Typescript"
+  ],
+  "author": "YakunJin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YakunJin/SkuUtils/issues"
+  },
+  "homepage": "https://github.com/YakunJin/SkuUtils#readme"
+}
